@@ -149,7 +149,6 @@ python-dateutil==2.8.1
 python-dbusmock==0.20.0
 python-editor==1.0.4
 python-pam==1.8.4
-python-xapp==2.0.2
 python-xlib==0.29
 pytoml==0.1.21
 pytz==2020.4
