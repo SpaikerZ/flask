@@ -77,7 +77,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 libtmux==0.8.5
 libvirt-python==6.4.0
-lit==0.11.0.dev0
+lit==0.11.1.
 louis==3.16.0
 lxml==4.6.2
 Mako==1.1.3
