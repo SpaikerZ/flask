@@ -181,7 +181,6 @@ translate-toolkit==3.2.0
 Twisted==20.3.0
 txaio==20.12.1
 ueberzug==18.1.8
-ufw==0.36
 uritemplate==3.0.1
 urllib3==1.25.10
 urwid==2.1.1
