@@ -75,7 +75,6 @@ Jinja2==2.11.2
 jsonschema==3.2.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
-lensfun==0.3.95
 LibAppArmor==3.0.1
 libtmux==0.8.5
 libvirt-python==6.4.0
