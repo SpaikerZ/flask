@@ -14,7 +14,6 @@ backcall==0.2.0
 bcrypt==3.2.0
 Beaker==1.11.0
 beautifulsoup4==4.9.3
-btrfsutil==5.9
 buildbot==2.9.3
 buildbot-wsgi-dashboards==2.9.3
 buildbot-www==2.9.3
