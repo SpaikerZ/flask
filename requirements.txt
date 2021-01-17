@@ -185,7 +185,6 @@ uritemplate==3.0.1
 urllib3==1.25.10
 urwid==2.1.1
 urwidtrees==1.0.3
-vboxapi==1.0
 vidcutter==6.0.0
 virtualenv==20.2.2
 virtualenv-clone==0.5.4
