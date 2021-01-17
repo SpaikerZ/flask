@@ -92,7 +92,6 @@ mock==3.0.5
 monotonic==1.5
 more-itertools==8.6.0
 msgpack==1.0.0
-netsnmp-python==1.0a1
 npyscreen==4.10.5
 Nuitka==0.6.10.1
 numpy==1.19.4
