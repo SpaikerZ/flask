@@ -176,7 +176,7 @@ sqlparse==0.4.1
 Tempita==0.5.2
 tinycss2==1.1.0
 toml==0.10.2
-traitlets==5.0.5
+traitlets==4.3.3
 translate-toolkit==3.2.0
 Twisted==20.3.0
 txaio==20.12.1
