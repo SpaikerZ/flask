@@ -36,7 +36,6 @@ constantly==15.1.0
 contextlib2==0.6.0.post1
 cryptography==3.3.1
 decorator==4.4.2
-dg==1.1.0+git
 diff-match-patch==20200713
 distlib==0.3.1
 distro==1.5.0
