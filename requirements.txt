@@ -1,9 +1,3 @@
-LibAppArmor==3.0.1
-libtmux==0.8.5
-libvirt-python==6.4.0
-lit==0.11.0.dev0
-louis==3.16.0
-lxml==4.6.2
 Mako==1.1.3
 mallard-ducktype==1.0.2
 Markdown==3.3.3
