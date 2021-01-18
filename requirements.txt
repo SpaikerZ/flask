@@ -21,7 +21,6 @@ buildbot-www==2.9.3
 CacheControl==0.12.6
 cachetools==4.2.0
 caffeine-ng==3.4.2
-catfish==4.15.0
 certbot==1.10.1
 certbot-dns-linode==1.10.1
 certifi==2020.6.20
