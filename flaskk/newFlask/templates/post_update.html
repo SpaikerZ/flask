@@ -1,0 +1,24 @@
+{% extends "./base.html" %}
+
+
+{% block title %}
+Обновление поста
+{% endblock %}
+
+{% block body %}
+
+<div class='container mt-5'>
+    <h1>Обновление статьи</h1>
+    <br>
+    <form method="post">
+        Title
+    <input type="text" name='title' id="title" value="{{ article.title }} " class='form-control'></input><br>
+        intro
+    <textarea name="intro" id='intro' value="{{ article.intro }}" class="form-control"></textarea>
+        text
+    <textarea name="text" id='text' value="{{ article.text }} " class="form-control"></textarea>
+
+    <input type="submit" class="btn btn-success" value="Обновить">
+    </form>
+</div>
+{% endblock %}
